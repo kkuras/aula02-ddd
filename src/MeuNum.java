@@ -7,7 +7,7 @@ public class MeuNum {
         double media;
         System.out.println("Digite o primeiro numero: ");
         num1 = leitor.nextInt();
-        System.out.println("Digite o segundo numero");
+        System.out.println("Digite o segundo numero: ");
         num2 = leitor.nextInt();
         media = (num1 + num2)/2f;
         System.out.println("Sua media é: " + media);

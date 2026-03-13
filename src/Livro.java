@@ -7,4 +7,6 @@ public class Livro {
     String editora;
     String resumo;
     String capaTipo;
+    String classificacaoindicativa;
+
 }
