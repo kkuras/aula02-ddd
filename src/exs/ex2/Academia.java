@@ -3,7 +3,7 @@ package exs.ex2;
 public class Academia {
 
     String nomeExer;
-    String local;
+    String maquina;
     String descricao;
     int series;
     int repeticao;
